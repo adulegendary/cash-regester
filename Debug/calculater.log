@@ -1,0 +1,3 @@
+﻿  cash regester calculator.cpp
+D:\doucument for my.cpp\calculater\cash regester calculator.cpp(26,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  calculater.vcxproj -> D:\doucument for my.cpp\calculater\Debug\calculater.exe
